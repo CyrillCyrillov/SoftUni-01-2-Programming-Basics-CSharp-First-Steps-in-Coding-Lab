@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.exe
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.deps.json
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.dll
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\bin\Debug\netcoreapp3.1\Task06_ConcatenateData.pdb
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.dll
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.pdb
+C:\Users\Kiril\source\repos\Lesson01\Task06_ConcatenateData\obj\Debug\netcoreapp3.1\Task06_ConcatenateData.genruntimeconfig.cache
